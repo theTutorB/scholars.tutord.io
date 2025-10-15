@@ -4,6 +4,9 @@
 - name: About
   path: "#about"
   section_id: about
+- name: Donate
+  path: "https://payments.scholars.tutord.io/b/cNieVe6QOc6n7e844Uco000"
+  section_id: donate
 - name: Services
   path: "#services"
   section_id: services
